@@ -1,6 +1,6 @@
 ## Starter
 
-There are 3 sections in the Starter:
+There are 3 sections in the Starter test:
 1. Pre-Module Survey
 2. Animation: Skills in careers that involve Computing
 3. Game: Skills Sorting
