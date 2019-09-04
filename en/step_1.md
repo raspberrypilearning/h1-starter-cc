@@ -38,12 +38,19 @@ Click the image to play the animation:
 
 --- task ---
 
-If you have a Scratch account click [this link](https://scratch.mit.edu/projects/326271794) to log in and play the Skills Sorting Game. If you don't have a Scratch account, click [this link](https://scratch.mit.edu/projects/326271944) to play the Skills Sorting Game. Click on the green flag to begin the Skills Sorting game.
+If you have a Scratch account click [this link](https://scratch.mit.edu/projects/326271794) to log in and play the Skills Sorting Game. If you don't have a Scratch account, click [this link](https://scratch.mit.edu/projects/326271944) to play the Skills Sorting game. 
 
-As with all activities, tick it off when you have completed it.
+Click on the green flag to begin the game. As with all activities, tick it off when you have completed it.
 
 Don’t forget, you need to work your way through the projects in the order they are listed because that’s the way this module has been designed. You’ll miss some key instructions otherwise :)
 
+--- /task ---
 
+--- task ---
 
+Click on the ‘Click me’ button to do back to the Scratch 1 Module pathway and begin the projects.
+
+<a href="https://codeclub.org/en/projects-cc">
+<img src="images/Clickme.png">
+  
 --- /task ---
