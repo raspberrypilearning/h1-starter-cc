@@ -21,13 +21,9 @@ Please complete this pre-module survey before you start the module:
 
 --- task ---
 
-Click on the green flag to begin the animation on skills in careers that involve Computing.
+You can watch the animation as a group or on your own. 
 
-You can watch the animation as a group or on your own.
-
-Tick off the activity when you have completed it.
-
-Click the image below to play the animation:
+Click the image below to play the animation. Remember, when you have finished watching the animation, click on the 'go back' arrow on your browser window to come back to this Starter activity. Tick off the activity once you have completed it:
 
 <a href="https://scratch.mit.edu/projects/325793079">
 <img src="images/animation.png">
