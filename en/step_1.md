@@ -38,7 +38,7 @@ Tick off the activity once you have completed it:
 
 If you have a Scratch account click [this link](https://scratch.mit.edu/projects/326271794) to log in and play the Skills Sorting game. If you don't have a Scratch account, click [this link](https://scratch.mit.edu/projects/326271944) to play the Skills Sorting game. 
 
-Once you have opened the game, click on the green flag to begin. Remember, when you have finished playing the game, click on the 'go back' arrow in your browser window to come back to this Starter activity.
+Once you have opened the game, click on the green flag to begin. When you have finished playing the game, click on the 'go back' arrow in your browser window to come back to this Starter activity.
 
 Don’t forget, you need to work your way through the projects in the order they are listed because that’s the way this module has been designed. You’ll miss some key instructions otherwise :) 
 
