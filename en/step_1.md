@@ -27,7 +27,7 @@ You can watch the animation as a group or on your own.
 
 Tick off the activity when you have completed it.
 
-Click the image to play the animation:
+Click the image below to play the animation:
 
 <a href="https://scratch.mit.edu/projects/325793079">
 <img src="images/animation.png">
@@ -40,13 +40,13 @@ Click the image to play the animation:
 
 If you have a Scratch account click [this link](https://scratch.mit.edu/projects/326271794) to log in and play the Skills Sorting Game. If you don't have a Scratch account, click [this link](https://scratch.mit.edu/projects/326271944) to play the Skills Sorting game. 
 
-Click on the green flag to begin the game. As with all activities, tick it off when you have completed it.
+Once you have opened the game, click on the green flag to begin.
 
-Don’t forget, you need to work your way through the projects in the order they are listed because that’s the way this module has been designed. You’ll miss some key instructions otherwise :)
+Don’t forget, you need to work your way through the projects in the order they are listed because that’s the way this module has been designed. You’ll miss some key instructions otherwise :) As with all activities, tick it off when you have completed them.
 
 --- /task ---
 
-Click on the ‘Click me’ button to do back to the HTML & CSS Module pathway and begin the projects.
+Click on the ‘Click me’ button to go back to the HTML & CSS Module pathway and begin the projects.
 
 <a href="https://codeclub.org/en/projects-cc">
 <img src="images/Clickme.png">
