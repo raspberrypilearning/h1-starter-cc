@@ -46,11 +46,7 @@ As with all activities, tick this activity off when you have completed it.
 
 --- /task ---
 
---- task ---
-
 Click on the ‘Click me’ button below to go back to the HTML & CSS Module pathway to begin the projects.
-
---- /task ---
 
 <a href="https://codeclub.org/en/projects-cc">
 <img src="images/Clickme.png">
