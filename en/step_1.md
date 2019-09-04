@@ -44,7 +44,7 @@ Don’t forget, you need to work your way through the projects in the order they
 
 --- /task ---
 
-Click on the ‘Click me’ button to go back to the HTML & CSS Module pathway to begin the projects.
+Click on the ‘Click me’ button below to go back to the HTML & CSS Module pathway to begin the projects.
 
 <a href="https://codeclub.org/en/projects-cc">
 <img src="images/Clickme.png">
