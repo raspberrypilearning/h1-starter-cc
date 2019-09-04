@@ -46,11 +46,8 @@ Don’t forget, you need to work your way through the projects in the order they
 
 --- /task ---
 
---- task ---
-
 Click on the ‘Click me’ button to do back to the Scratch 1 Module pathway and begin the projects.
 
 <a href="https://codeclub.org/en/projects-cc">
 <img src="images/Clickme.png">
-  
---- /task ---
+
