@@ -23,7 +23,7 @@ Please complete this pre-module survey before you start the module:
 
 You can watch the animation as a group or on your own. 
 
-Click the image below to play the animation. Remember, when you have finished watching the animation, click on the 'go back' arrow on your browser window to come back to this Starter activity. 
+Click the image below to play the animation. Remember, when you have finished watching the animation, click on the 'go back' arrow in your browser window to come back to this Starter activity. 
 
 Tick off the activity once you have completed it:
 
@@ -40,7 +40,7 @@ If you have a Scratch account click [this link](https://scratch.mit.edu/projects
 
 Once you have opened the game, click on the green flag to begin.
 
-Don’t forget, you need to work your way through the projects in the order they are listed because that’s the way this module has been designed. You’ll miss some key instructions otherwise :) As with all activities, tick it off when you have completed them.
+Don’t forget, you need to work your way through the projects in the order they are listed because that’s the way this module has been designed. You’ll miss some key instructions otherwise :) As with all activities, tick it off when you have completed it.
 
 --- /task ---
 
