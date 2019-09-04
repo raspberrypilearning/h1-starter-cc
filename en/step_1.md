@@ -36,7 +36,7 @@ Tick off the activity once you have completed it:
 
 --- task ---
 
-If you have a Scratch account click [this link](https://scratch.mit.edu/projects/326271794) to log in and play the Skills Sorting Game. If you don't have a Scratch account, click [this link](https://scratch.mit.edu/projects/326271944) to play the Skills Sorting game. 
+If you have a Scratch account click [this link](https://scratch.mit.edu/projects/326271794) to log in and play the Skills Sorting game. If you don't have a Scratch account, click [this link](https://scratch.mit.edu/projects/326271944) to play the Skills Sorting game. 
 
 Once you have opened the game, click on the green flag to begin.
 
