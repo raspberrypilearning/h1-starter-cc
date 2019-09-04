@@ -40,7 +40,7 @@ If you have a Scratch account click [this link](https://scratch.mit.edu/projects
 
 Once you have opened the game, click on the green flag to begin.
 
-Don’t forget, you need to work your way through the projects in the order they are listed because that’s the way this module has been designed. You’ll miss some key instructions otherwise :) As with all activities, tick it off when you have completed it.
+Don’t forget, you need to work your way through the projects in the order they are listed because that’s the way this module has been designed. You’ll miss some key instructions otherwise :) As with all activities, tick this activity off when you have completed it.
 
 --- /task ---
 
